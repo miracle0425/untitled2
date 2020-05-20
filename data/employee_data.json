@@ -1,0 +1,8 @@
+{
+  "add_emp": {"username":"小鬼当家","mobile":"15847589980",
+    "http_code":200,"success":true,"code":10000,"message":"操作成功"},
+  "query_emp": {"http_code":200,"success":true,"code":10000,"message":"操作成功"},
+  "modify_emp": {"username":"k2爆炸理论",
+    "http_code":200,"success":true,"code":10000,"message":"操作成功"},
+  "delete_emp": {"http_code":200,"success":true,"code":10000,"message":"操作成功"}
+}
