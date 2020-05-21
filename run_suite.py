@@ -14,4 +14,5 @@ with open(report_name,"wb") as f:
     runner = HTMLTestRunner_PY3.HTMLTestRunner(f,verbosity=2,title="IHRM接口测试报告",description="这是人力资源管理系统的测试报告")
     runner.run(suite)
 
-print("测试新增一行代码，会不会触发轮训构建")
+print("测试新增一行代码，会不会触发轮训构建3")
+print("--" * 10)
